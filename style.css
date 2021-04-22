@@ -36,18 +36,18 @@ body{
 }
 
 #logo path:nth-child(4){
-    stroke-dasharray: 314;
-    stroke-dashoffset: 314;
+    stroke-dasharray: 314.9;
+    stroke-dashoffset: 314.9;
     animation: line-anim 3s ease forwards 0.9s;
 }
 #logo path:nth-child(5){
-    stroke-dasharray: 239;
-    stroke-dashoffset: 239;
+    stroke-dasharray: 239.8;
+    stroke-dashoffset: 239.8;
     animation: line-anim 3s ease forwards 1.2s;
 }
 #logo path:nth-child(6){
-    stroke-dasharray: 467;
-    stroke-dashoffset: 467;
+    stroke-dasharray: 467.84;
+    stroke-dashoffset: 467.84;
     animation: line-anim 3s ease forwards 1.5s;
 }
 #logo path:nth-child(7){
